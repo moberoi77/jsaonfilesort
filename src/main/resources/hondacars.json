@@ -1,0 +1,14 @@
+[
+   {
+      "model": "Honda City",
+      "cc": "1500"
+   },
+   {
+      "model": "Honda Jazz",
+      "cc": "1000"
+   },
+   {
+      "model": "Honda Amaze",
+      "cc": "1200"
+   }
+]
